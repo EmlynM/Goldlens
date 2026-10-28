@@ -1,0 +1,3 @@
+trading_date,symbol,expiry_date,open,high,low,close,settlement_price,volume,open_interest,quotation_grams,purity
+2025-01-02,GOLDM,2025-02-05,70000,70500,69800,70200,70250,1200,45000,10,1
+2025-01-02,GOLDPETAL,2025-02-12,7010,7060,6980,7020,7025,800,18000,1,1
